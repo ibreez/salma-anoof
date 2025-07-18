@@ -1,0 +1,67 @@
+> Create a beautiful, **mobile-friendly, one-page wedding invitation website** with an elegant and romantic design.
+> I already have a **wedding video card**, which should be embedded prominently at the top of the page.
+>
+> ### 🛠️ **Requirements**:
+>
+> 1. **Hero Section**:
+>
+>    * Couple’s names (e.g., *John & Lisa*).
+>    * Wedding date (e.g., *Saturday, October 12, 2025*).
+>    * Embedded wedding video (autoplay optional, include play/pause).
+> 2. **Event Details**:
+>
+>    * **Wedding Ceremony**:
+>
+>      * Date, Time.
+>      * Full Address.
+>      * Embed Google Maps with a clickable **“Get Directions”** link.
+>    * **Reception (if different)**:
+>
+>      * Time and Address.
+>      * Optional Map or transport info.
+> 3. **RSVP Section**:
+>
+>    * Form fields: Name, Email, Number of Guests, Meal Preference (dropdown), Custom Message.
+>    * Submit button with success/failure message.
+> 4. **Countdown Timer**:
+>
+>    * Live countdown until the wedding day.
+> 5. **Gallery**:
+>
+>    * Carousel or grid of engagement or pre-wedding photos.
+> 6. **Gift Registry / Bank Details** (Optional):
+>
+>    * Add links to Amazon/Target registry OR
+>    * Display bank transfer info in a discreet section.
+> 7. **Social Sharing**:
+>
+>    * WhatsApp, Instagram, and Email share buttons.
+> 8. **Footer**:
+>
+>    * Short thank-you message.
+>    * Contact info (e.g., phone/email for wedding inquiries).
+>
+> ### 🎯 **Design Guidelines**:
+>
+> * Mobile-first, responsive layout.
+> * Use warm pastel tones (blush, ivory, soft gold, lavender).
+> * Elegant typography (e.g., “Great Vibes” for names, “Lato” for body text).
+> * Soft scroll-based animations (fade-in, slide-in).
+> * Lightweight, fast loading, touch-friendly.
+
+---
+
+### ✅ **Extra Recommendations**:
+
+* ✅ **Location Preview**:
+  Use Google Maps Embed API to show a pin on the map. You can also add a "Save the Date" calendar button (iCal/Google Calendar).
+
+* ✅ **QR Code (optional)**:
+  Generate a QR code for the link to include on printed invitations for quick mobile access.
+
+* ✅ **Progressive Web App (optional)**:
+  If you'd like the site to behave like an app, consider turning it into a simple **PWA** for offline access.
+
+* ✅ **Hosting Options**:
+
+  * Use platforms like **Vercel**, **Netlify**, 
