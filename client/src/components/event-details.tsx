@@ -67,7 +67,7 @@ export default function EventDetails() {
             </div>
             
             <button 
-              onClick={() => openDirections("123 Cathedral Street, New York, NY 10001")}
+              onClick={() => window.open("https://www.google.com/maps/place/Kawasan+Wisata+Siblarak/@-7.5868326,110.660432,940m/data=!3m1!1e3!4m6!3m5!1s0x2e7a6bb470a29fb1:0xee9d518791789de3!8m2!3d-7.5890275!4d110.6598547!16s%2Fg%2F11gtyq1jsd?hl=en&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D", "_blank")}
               className="w-full mt-4 bg-gradient-to-r from-rose-pink to-deep-rose hover:from-rose-pink/90 hover:to-deep-rose/90 text-white py-3 px-6 rounded-lg font-medium transition-colors duration-300"
             >
               <Navigation className="w-4 h-4 mr-2 inline" />
@@ -119,7 +119,7 @@ export default function EventDetails() {
             </div>
             
             <button 
-              onClick={() => openDirections("456 Celebration Avenue, New York, NY 10001")}
+              onClick={() => window.open("https://www.google.com/maps/place/Kawasan+Wisata+Siblarak/@-7.5868326,110.660432,940m/data=!3m1!1e3!4m6!3m5!1s0x2e7a6bb470a29fb1:0xee9d518791789de3!8m2!3d-7.5890275!4d110.6598547!16s%2Fg%2F11gtyq1jsd?hl=en&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D", "_blank")}
               className="w-full mt-4 bg-gradient-to-r from-rose-pink to-deep-rose hover:from-rose-pink/90 hover:to-deep-rose/90 text-white py-3 px-6 rounded-lg font-medium transition-colors duration-300"
             >
               <Navigation className="w-4 h-4 mr-2 inline" />
